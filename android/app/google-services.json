@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "742683333598",
+    "project_id": "egift-97b47",
+    "storage_bucket": "egift-97b47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742683333598:android:35c466a375baaf914a034f",
+        "android_client_info": {
+          "package_name": "com.example.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI9Xw5ZcSEyxNVK497L7hO_G6v58ebWhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742683333598:android:49d00c758d0a6e604a034f",
+        "android_client_info": {
+          "package_name": "com.example.e_gift_store_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI9Xw5ZcSEyxNVK497L7hO_G6v58ebWhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742683333598:android:8daf67aed75010a64a034f",
+        "android_client_info": {
+          "package_name": "com.izhak.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI9Xw5ZcSEyxNVK497L7hO_G6v58ebWhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
